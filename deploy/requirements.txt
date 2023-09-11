@@ -70,4 +70,4 @@ python-json-logger==2.0.4
 # For local development:
 # 1. Manually clone the 'label-studio-converter' repository.
 # 2. Install the library in "editable" mode using: pip install -e path/to/label-studio-converter
--e git+https://github.com/manigandanp/label-studio-converter.git
+-e git+https://github.com/manigandanp/label-studio-converter.git#egg=label-studio-converter
